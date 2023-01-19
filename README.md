@@ -16,6 +16,7 @@ Avant cette formation, j'ai fait un DUT Informatique à l'IUT de Sénart-Fontain
 Je travailles activement sur plusieurs projets personnels, tels que des sites internet, une API REST, des bots, ainsi que des projets arduino
 (esp32 plus précisément)  
 Plus d'informations quand j'en aurais fini ^^
+
 ---
 ## Contact
 Mes moyens de contact sont classés par ordre de rapidité de réponse :  
