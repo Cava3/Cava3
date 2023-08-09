@@ -7,9 +7,25 @@ les langages du Web, et bien d'autres.
 
 ---
 ## Parcours scolaire et professionnel
-Actuellement en alternance au sein du CNAM ENJMIN (spécialisée en jeux vidéo) en tant quIngénieur Informatique Et Multimédias,
-je suis actuellement en apprentissage au sein de la DILT, dépendant du Ministère de l'Intérieur.  
-Avant cette formation, j'ai fait un DUT Informatique à l'IUT de Sénart-Fontainebleau (UPEC12).  
+#### Scolaire
+- 2022 / 2025 : École d'ingénieur en Informatique et Multimédias à l'ENJMIN (Angoulême) en alternance.
+- 2020 / 2022 : DUT Informatique à l'IUT de Sénart-Fontainebleau (Fontainebleau).
+- 2017 / 2020 : Bac S spé SVT option ISN (informatique) au Lycée François Couperin (Fontainebleau).
+
+#### Professionnel
+- 2022 / 2025 : Alternant Ingénieur en Lutte Anti-Drone au sein de la DILT.
+- 2022 : Stagiaire développement web au sein de la DILT.
+
+---
+## Compétences (/5)
+#### Langages et Formats
+- 5⭐ : Python, Java, HTML, JS, Bash/Shell, Markdown, JSON
+- 4⭐ : C, C++ (Arduino), CSS, PHP, SQL
+- 2.5⭐ : XML, Batch, LaTeX
+
+#### Logiciels, Outils et Plateformes
+- 5⭐ : Git, GitHub, VSCode, IntelliJ, Linux, Windows
+- 4⭐ : Jupyter, Sublime Text, Arduino, Suites Microsoft et Libre Office, Edition d'images
 
 ---
 ## Projets actuels
