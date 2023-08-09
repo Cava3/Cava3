@@ -21,6 +21,6 @@ Plus d'informations quand j'en aurais fini ^^
 ## Contact
 Mes moyens de contact sont classés par ordre de rapidité de réponse :  
  - 📞 [06 52 14 43 42](tel:+33652144342)
- - Discord : Roucool_PvP#1231
+ - Discord : roucoops
  - 📨 [lucastag77@gmail.com](mailto:lucastag77@gmail.com)
  - [LinkedIn](https://www.linkedin.com/in/lucas-le-dudal/)
