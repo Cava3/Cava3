@@ -30,28 +30,28 @@ les langages du Web, et bien d'autres.
 ---
 ## Projets
 
-| Description | Preview |
+| Description | Illustration |
 | :--- | ---: |
-| **Loup-Garou Discord**<br>Il s'agit d'un bot Discord écrit en python qui implémente le jeu du Loup-Garou.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Image d'un serveur discord de jeu Loup-Garou](test.png) |
+| **🔒 SKIT Défi Santé Jeunesse**<br>Un jeu narratif ayant pour objectif de lutter contre le tabagisme au collège, réalisé pour l'organisation SKIT. Il s'agit d'une application Android, également déployable pour IOS. Le contenu est créé à l'aide de l'outil web de rédaction Twine, et le passage en application est fait grace à Capacitor by Ionic.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Image d'un message de Nathan le toxico](test.png) |
 | | |
-| **Shower Button**<br>Un petit dispositif basé sur un ESP32 permettant d'envoyer un message sur un salon Discord.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Photo du dispositif](test.png) |
+| **🔓 Blind Maze**<br>Un jeu de labyrinthe classique, avec des graphismes simples mais avec une particularité : il fait trop sombre pour voir. Pour se repérer, le joueur ne peut se fier qu'au son. Il est donc recommandé de dessiner une carte sur une feuille. Attention aux gobelins !<br>[En savoir plus...](chemin/vers/fichier.md) | ![Photo d'une personne jouant au jeu](test.png) |
 | | |
-| **Bot Macron**<br>Ce bot Discord permet une gestion simple et rapide de création de salons dédiés à des projets ou sujets.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Screenshot du Discord "Parce que c'est notre projet!"](test.png) |
+| **🔒 Loup-Garou Discord**<br>Il s'agit d'un bot Discord écrit en python qui implémente le jeu du Loup-Garou. Sont implémentés 10 rôles en plus du villageois de base. Les Loups-Garous ont un canal de discussion isolé pour pouvoir discuter lors du vote. (Ce bot utilise une librairie discord python désormais dépréciée)<br>[En savoir plus...](chemin/vers/fichier.md) | ![Image d'un serveur discord de jeu Loup-Garou](test.png) |
 | | |
-| **Lojistick**<br>L'assistant vocal web de gestion du presse-papier (limité par les dispositifs de sécurité).<br>[En savoir plus...](chemin/vers/fichier.md) | ![Capture d'écran de la page web](test.png) |
+| **🔓 Game of Life**<br>Implémentation du jeu de la vie de Conway en python avec quelques ajouts utiles tels qu'un système de templates (fichiers), de pause, de ralentissement et acceleration du temps, etc. Il y a cependant des limitations côté optimisation et taille du terrain. L'architecture actuelle du programme soit être revue entièrement afin d'acceuillir un système de terrain infini.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Capture d'écran du jeu en cours](test.png) |
 | | |
-| **Game of Life**<br>Implémentation du jeu de la vie de Conway en python avec quelques ajouts utiles.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Capture d'écran du jeu en cours](test.png) |
+| **🔒 Shower Button**<br>Un petit dispositif basé sur un ESP32 équipé d'un bouton permettant d'envoyer un message simple sur un salon Discord. Le code a été produit sur l'Arduino IDE, avec des librairies très utilisées et légères (WiFi et HTTPS). La requête d'envoi de message se fait directement à l'API, sans passer par une librairie dédiée à Discord. L'intérêt est de pouvoir lier un compte utilisateur classique au bouton.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Photo du dispositif](test.png) |
 | | |
-| **CarteD**<br>Interface web en JS basée sur la cartographie avec la librairie Leaflet<br>[En savoir plus...](chemin/vers/fichier.md) | ![Affichage de l'écran d'acceuil](test.png) |
+| **🔒 CarteD**<br>Interface web en JS basée sur la cartographie avec la librairie Leaflet. Elle vise à afficher l'emplacement de drones en temps réel, et de visionner l'historique de ces emplacements à l'aide d'une API interne, non disponible. Ce projet est développé dans le cadre de mon alternance au sein de la DILT, et il m'est donc impossible de détailler son contenu.| ![Affichage de l'écran d'acceuil](test.png) |
 | | |
-| **SKIT Défi Santé Jeunesse**<br>Un jeu narratif ayant pour objectif de lutter contre le tabagisme au collège, réalisé pour l'organisation SKIT.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Image d'un message de Nathan le toxico](test.png) |
+| **🔓 Bot Macron**<br>Ce bot Discord permet une gestion simple et rapide de création de salons dédiés à des projets ou sujets. Le bot est dédié au serveur "Parce que c'est notre projet !", afin de permettre la création de projets de groupe ou non en quelques clics seulement. Il contient aussi quelques fonctions plus généralistes, permettant de ne pas ajouter d'autres bots au serveur, réduisant ainsi les risques d'arnaque au bot.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Screenshot du Discord "Parce que c'est notre projet!"](test.png) |
 | | |
-| **Blind Maze**<br>Un jeu de labyrinthe classique mais sans la vue, forçant le joueur à se repérer au son et avec une carte dessinée soi-même.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Photo d'une personne jouant au jeu](test.png) |
+| **🔓 Lojistick**<br>Lojistik est un mini projets servant de proof of concept pour une fonctionnalité intéressante pr"sente sur tous les navigateurs à jour. Il lie la reconnaissance vocale et la gestion du presse-papier afin de permettre de pouvoir passer rapidement d'un élément à un autre. Malheureusement, les sécurités mises en place par les navigateurs sur ces deux nouvelles technologies ne permettent pas un fonctionnement de l'application en arrière plan...<br>[En savoir plus...](chemin/vers/fichier.md) | ![Capture d'écran de la page web](test.png) |
 | | |
 
 
 Je travailles activement à la récupération d'un bon serveur chez Oracle afin d'y héberger mes projets.  
-Plus d'informations quand j'en aurais fini ^^
+Plus d'informations lorsque j'aurais atteint cet objectif ^^
 
 ---
 ## Contact
