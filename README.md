@@ -20,7 +20,7 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 #### Langages et Formats
 - 5⭐ : Python, Java, HTML, JavaScript, Bash/Shell, Markdown, JSON
 - 4⭐ : C, C++ (Arduino), CSS, PHP, SQL
-- 2.5⭐ : XML, Batch, LaTeX
+- 2⭐ : XML, Batch, LaTeX
 
 #### Logiciels, Outils et Plateformes
 - 5⭐ : Git, GitHub, VSCode, IntelliJ, Linux, Windows
