@@ -1,9 +1,8 @@
 ## Présentation
 
 Bonjour,  
-Je suis Lucas LE DUDAL, passionné d'informatique depuis mes 8 ans. J'ai commencé par apprendre python, un des langages les plus utilisés.
-Il s'agit donc du langage que je maitrise le mieux. Lors demes études, j'ai eu l'occasion d'apprendre beaucoup d'autres langages comme Java, C, Bash,
-les langages du Web, et bien d'autres.
+Je suis Lucas LE DUDAL, passionné d'informatique depuis mes 8 ans. J'ai commencé par apprendre Python, un des langages les plus utilisés.
+Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu l'occasion d'étudier beaucoup d'autres langages tels que Java, C, Bash, les langages du Web, et bien d'autres.
 
 ---
 ## Parcours scolaire et professionnel
@@ -19,7 +18,7 @@ les langages du Web, et bien d'autres.
 ---
 ## Compétences (/5)
 #### Langages et Formats
-- 5⭐ : Python, Java, HTML, JS, Bash/Shell, Markdown, JSON
+- 5⭐ : Python, Java, HTML, JavaScript, Bash/Shell, Markdown, JSON
 - 4⭐ : C, C++ (Arduino), CSS, PHP, SQL
 - 2.5⭐ : XML, Batch, LaTeX
 
@@ -36,9 +35,9 @@ les langages du Web, et bien d'autres.
 | | |
 | **🔓 Blind Maze**<br>Un jeu de labyrinthe classique, avec des graphismes simples mais avec une particularité : il fait trop sombre pour voir. Pour se repérer, le joueur ne peut se fier qu'au son. Il est donc recommandé de dessiner une carte sur une feuille. Attention aux gobelins !<br>[En savoir plus...](chemin/vers/fichier.md) | ![Photo d'une personne jouant au jeu](test.png) |
 | | |
-| **🔒 Loup-Garou Discord**<br>Il s'agit d'un bot Discord écrit en python qui implémente le jeu du Loup-Garou. Sont implémentés 10 rôles en plus du villageois de base. Les Loups-Garous ont un canal de discussion isolé pour pouvoir discuter lors du vote. (Ce bot utilise une librairie discord python désormais dépréciée)<br>[En savoir plus...](chemin/vers/fichier.md) | ![Image d'un serveur discord de jeu Loup-Garou](test.png) |
+| **🔒 Loup-Garou Discord**<br>Il s'agit d'un bot Discord écrit en Python qui implémente le jeu du Loup-Garou. Sont implémentés 10 rôles en plus du villageois de base. Les Loups-Garous ont un canal de discussion isolé pour pouvoir discuter lors du vote. (Ce bot utilise une librairie discord Python désormais dépréciée)<br>[En savoir plus...](chemin/vers/fichier.md) | ![Image d'un serveur discord de jeu Loup-Garou](test.png) |
 | | |
-| **🔓 Game of Life**<br>Implémentation du jeu de la vie de Conway en python avec quelques ajouts utiles tels qu'un système de templates (fichiers), de pause, de ralentissement et acceleration du temps, etc. Il y a cependant des limitations côté optimisation et taille du terrain. L'architecture actuelle du programme soit être revue entièrement afin d'acceuillir un système de terrain infini.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Capture d'écran du jeu en cours](test.png) |
+| **🔓 Game of Life**<br>Implémentation du jeu de la vie de Conway en Python avec quelques ajouts utiles tels qu'un système de templates (fichiers), de pause, de ralentissement et acceleration du temps, etc. Il y a cependant des limitations côté optimisation et taille du terrain. L'architecture actuelle du programme soit être revue entièrement afin d'acceuillir un système de terrain infini.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Capture d'écran du jeu en cours](test.png) |
 | | |
 | **🔒 Shower Button**<br>Un petit dispositif basé sur un ESP32 équipé d'un bouton permettant d'envoyer un message simple sur un salon Discord. Le code a été produit sur l'Arduino IDE, avec des librairies très utilisées et légères (WiFi et HTTPS). La requête d'envoi de message se fait directement à l'API, sans passer par une librairie dédiée à Discord. L'intérêt est de pouvoir lier un compte utilisateur classique au bouton.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Photo du dispositif](test.png) |
 | | |
