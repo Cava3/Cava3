@@ -29,7 +29,7 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 ---
 ## Projets
 
-| Description | Illustration |
+| Descriptions | Illustrations |
 | :--- | ---: |
 | **🔒 Skit Story**<br>Un jeu narratif ayant pour objectif de lutter contre le tabagisme au collège, réalisé pour l'organisation SKIT Défi Santé Jeunesse. Il s'agit d'une application Android, également déployable pour IOS. Le contenu est créé à l'aide de l'outil web de rédaction Twine, et le passage en application est fait grace à Capacitor by Ionic.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Image d'un message de Nathan le toxico](Illustrations/SkitStory.png) |
 | | |
@@ -39,7 +39,7 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 | | |
 | **🔒 Loup-Garou Discord**<br>Il s'agit d'un bot Discord écrit en Python qui implémente le jeu du Loup-Garou. Sont implémentés 10 rôles en plus du villageois de base. Les Loups-Garous ont un canal de discussion isolé pour pouvoir discuter lors du vote. (Ce bot utilise une librairie discord Python désormais dépréciée)<br>[En savoir plus...](chemin/vers/fichier.md) | ![Image d'un serveur discord de jeu Loup-Garou](Illustrations/LoupGarou.png) |
 | | |
-| **🔓 Game of Life**<br>Implémentation du jeu de la vie de Conway en Python avec quelques ajouts utiles tels qu'un système de templates (fichiers), de pause, de ralentissement et acceleration du temps, etc. Il y a cependant des limitations côté optimisation et taille du terrain. L'architecture actuelle du programme soit être revue entièrement afin d'acceuillir un système de terrain infini.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Capture d'écran du jeu en cours](test.png) |
+| **🔓 Game of Life**<br>Implémentation du jeu de la vie de Conway en Python avec quelques ajouts utiles tels qu'un système de templates (fichiers), de pause, de ralentissement et acceleration du temps, etc. Il y a cependant des limitations côté optimisation et taille du terrain. L'architecture actuelle du programme soit être revue entièrement afin d'acceuillir un système de terrain infini.<br>[En savoir plus...](rien.md) | ![Capture d'écran du jeu en cours](Illustrations/GOL.png) |
 | | |
 | **🔒 Shower Button**<br>Un petit dispositif basé sur un ESP32 équipé d'un bouton permettant d'envoyer un message simple sur un salon Discord. Le code a été produit sur l'Arduino IDE, avec des librairies très utilisées et légères (WiFi et HTTPS). La requête d'envoi de message se fait directement à l'API, sans passer par une librairie dédiée à Discord. L'intérêt est de pouvoir lier un compte utilisateur classique au bouton.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Photo du dispositif](test.png) |
 | | |
