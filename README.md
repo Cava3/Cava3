@@ -7,13 +7,13 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 ---
 ## Parcours scolaire et professionnel
 #### Scolaire
-- 2022 / 2025 : École d'ingénieur en Informatique et Multimédias à l'ENJMIN (Angoulême) en alternance.
-- 2020 / 2022 : DUT Informatique à l'IUT de Sénart-Fontainebleau (Fontainebleau).
-- 2017 / 2020 : Bac S spé SVT option ISN (informatique) au Lycée François Couperin (Fontainebleau).
+- 2022 / 2025 : *École d'ingénieur en Informatique et Multimédias à l'ENJMIN (Angoulême) en alternance.*
+- 2020 / 2022 : *DUT Informatique à l'IUT de Sénart-Fontainebleau (Fontainebleau).*
+- 2017 / 2020 : *Bac S spé SVT option ISN (informatique) au Lycée François Couperin (Fontainebleau).*
 
 #### Professionnel
-- 2022 / 2025 : Alternant Ingénieur en Lutte Anti-Drone au sein de la DILT.
-- 2022 : Stagiaire développement web au sein de la DILT.
+- 2022 / 2025 : *Alternant Ingénieur en Lutte Anti-Drone au sein de la DILT.*
+- 2022 : *Stagiaire développement web au sein de la DILT.*
 
 ---
 ## Compétences (/5)
@@ -56,7 +56,7 @@ Plus d'informations quand ça avancera ^^
 
 ---
 ## Contact
-Mes moyens de contact sont classés par ordre de rapidité de réponse :  
+Par ordre de rapidité de réponse :
  - 📞 [06 52 14 43 42](tel:+33652144342)
  - Discord : roucoops
  - 📨 [lucastag77@gmail.com](mailto:lucastag77@gmail.com)
