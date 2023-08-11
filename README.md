@@ -31,7 +31,7 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 
 | Description | Illustration |
 | :--- | ---: |
-| **🔒 SKIT Défi Santé Jeunesse**<br>Un jeu narratif ayant pour objectif de lutter contre le tabagisme au collège, réalisé pour l'organisation SKIT. Il s'agit d'une application Android, également déployable pour IOS. Le contenu est créé à l'aide de l'outil web de rédaction Twine, et le passage en application est fait grace à Capacitor by Ionic.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Image d'un message de Nathan le toxico](test.png) |
+| **🔒 Skit Story**<br>Un jeu narratif ayant pour objectif de lutter contre le tabagisme au collège, réalisé pour l'organisation SKIT Défi Santé Jeunesse. Il s'agit d'une application Android, également déployable pour IOS. Le contenu est créé à l'aide de l'outil web de rédaction Twine, et le passage en application est fait grace à Capacitor by Ionic.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Image d'un message de Nathan le toxico](Illustrations/SkitStory.png) |
 | | |
 | **🔒 Penguin Plugin**<br>Un plugin avancé pour l'outil open source de botting par mémoire DarkBot développé en Java. DarkBot est une application permettant de remplacer le joueur sur le jeu DarkOrbit. Il est open-source et permet d'ajouter des plugins de sources vérifiées (fichiers.jar signés). Le plugin Penguin, développé en collaboration, propose des fonctionnalités innovantes et plus poussées que la plupart des autres plugins.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Screenshot du DarkBot](test.png) |
 | | |
