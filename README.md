@@ -27,9 +27,9 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 - 4⭐ : Jupyter, Sublime Text, Arduino, Suites Microsoft et Libre Office, Edition d'images
 
 ---
-## Projets
+## Réalisations
 
-| Descriptions | Illustrations |
+| Description | Illustration |
 | :--- | ---: |
 | **🔒 Skit Story**<br>Un jeu narratif ayant pour objectif de lutter contre le tabagisme au collège, réalisé pour l'organisation SKIT Défi Santé Jeunesse. Il s'agit d'une application Android, également déployable pour IOS. Le contenu est créé à l'aide de l'outil web de rédaction Twine, et le passage en application est fait grace à Capacitor by Ionic.<br>[En savoir plus...](chemin/vers/fichier.md) | ![Image d'un message de Nathan le toxico](imgs/SkitStory.png) |
 | | |
