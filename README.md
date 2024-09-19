@@ -1,7 +1,7 @@
 ## Présentation
 
 Bonjour,  
-Je suis Lucas LE DUDAL, passionné d'informatique depuis mes 8 ans. J'ai commencé par apprendre Python, un des langages les plus utilisés.
+Je suis passionné d'informatique depuis mes 8 ans. J'ai commencé par apprendre Python, un des langages les plus utilisés aujourd'hui.
 Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu l'occasion d'étudier beaucoup d'autres langages tels que Java, C, Bash, les langages du Web, et bien d'autres.
 
 ---
@@ -19,12 +19,12 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 ## Compétences (/5)
 #### Langages et Formats
 - 5⭐ : Python, Java, HTML, JavaScript, Bash/Shell, Markdown, JSON
-- 4⭐ : C, C++ (Arduino), CSS, PHP, SQL
+- 4⭐ : C, C++, C#, Arduino, CSS, PHP, SQL
 - 2⭐ : XML, Batch, LaTeX
 
 #### Logiciels, Outils et Plateformes
 - 5⭐ : Git, GitHub, VSCode, IntelliJ, Linux, Windows
-- 4⭐ : Jupyter, Sublime Text, Arduino, Suites Microsoft et Libre Office, Edition d'images
+- 4⭐ : Jupyter, Sublime Text, Arduino IDE, Suites Microsoft et Libre Office
 
 ---
 ## Réalisations
@@ -50,9 +50,6 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 | **[🔓](#réalisations "Open Source") Lojistik**<br>Lojistik est un mini projets servant de proof of concept pour une fonctionnalité intéressante présente sur tous les navigateurs à jour. Il lie la reconnaissance vocale et la gestion du presse-papier afin de permettre de pouvoir passer rapidement d'un élément à un autre. Malheureusement, les sécurités mises en place par les navigateurs sur ces deux nouvelles technologies ne permettent pas un fonctionnement de l'application en arrière plan...<br>[En savoir plus...](chemin/vers/fichier.md) | ![Capture d'écran de la page web](imgs/Lojistik.png) |
 | | |
 
-
-> Je travailles activement à la récupération d'un serveur chez Oracle afin d'y héberger mes projets.  
-Plus d'informations quand ça avancera ^^
 
 ---
 ## Contact
