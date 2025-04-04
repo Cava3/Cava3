@@ -31,9 +31,11 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 
 | Description | Illustration |
 | :--- | ---: |
-| **[🔒](#réalisations "Closed Source") Skit Story**<br>Un jeu narratif ayant pour objectif de lutter contre le tabagisme au collège, réalisé pour l'organisation [SKIT Défi Santé Jeunesse](https://skit.fr). Il s'agit d'une application Android, également déployable pour IOS. Le contenu est créé à l'aide de l'outil web de rédaction Twine, et le passage en application est fait grace à Capacitor by Ionic.<br> | ![Image d'un message de Nathan le toxico](imgs/SkitStory.png) |
-| | |
 | **[🔓](#réalisations "Open Source") Blind Maze**<br>Un jeu de labyrinthe classique, avec des graphismes simples mais avec une particularité : il fait trop sombre pour voir. Pour se repérer, le joueur ne peut se fier qu'au son. Il est donc recommandé de dessiner une carte sur une feuille. Attention aux gobelins !<br>[En savoir plus...](https://github.com/IeM-P8/Blind-Maze) | ![Photo de l'intro du jeu](imgs/BlindMaze.png) |
+| | |
+| **[🔓](#réalisations "Open Source") Fist & Fury**<br>Un jeu en réalité virtuelle développé avec Unreal Engine 5 dans le cadre d'un cours de réalité virtuelle. Il s'agit d'un jeu de type "Beat Them All" avec pour ennemis les élèves de la 8ème promotion d'IEM. On y retrouve plusieurs armes et ennemis avec des caractéristiques différentes.<br> | ![Capture d'écran du jeu en VR](imgs/Fist&Fury.png) |
+| | |
+| **[🔒](#réalisations "Closed Source") Skit Story**<br>Un jeu narratif ayant pour objectif de lutter contre le tabagisme au collège, réalisé pour l'organisation [SKIT Défi Santé Jeunesse](https://skit.fr). Il s'agit d'une application Android, également déployable pour IOS. Le contenu est créé à l'aide de l'outil web de rédaction Twine, et le passage en application est fait grace à Capacitor by Ionic.<br> | ![Image d'un message de Nathan le toxico](imgs/SkitStory.png) |
 | | |
 | **[🔒](#réalisations "Closed Source") Loup-Garou Discord**<br>Il s'agit d'un bot Discord écrit en Python qui implémente le jeu du Loup-Garou. Sont implémentés 10 rôles en plus du villageois de base. Les Loups-Garous ont un canal de discussion isolé pour pouvoir discuter lors du vote. (Ce bot utilise une librairie discord Python désormais dépréciée)<br> | ![Image d'un serveur discord de jeu Loup-Garou](imgs/LoupGarou.png) |
 | | |
@@ -52,6 +54,6 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 ## Contact
 Par ordre de rapidité de réponse :
  - 📞 [06 52 14 43 42](tel:+33652144342)
- - Discord : roucoops
+ - Discord : @roucoops
  - 📨 [lucastag77@gmail.com](mailto:lucastag77@gmail.com)
  - [LinkedIn](https://www.linkedin.com/in/lucas-le-dudal/)
