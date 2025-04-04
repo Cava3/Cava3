@@ -1,8 +1,8 @@
 ## Présentation
 
 Bonjour,  
-Je suis Lucas LE DUDAL, passionné d'informatique depuis mes 8 ans. J'ai commencé par apprendre Python, un des langages les plus utilisés aujourd'hui.
-Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu l'occasion d'étudier beaucoup d'autres langages tels que Java, C, Bash, les langages du Web, et bien d'autres.
+Je suis Lucas LE DUDAL, passionné d'informatique depuis plus de 12 ans. J'ai commencé par apprendre Python, un des langages les plus utilisés aujourd'hui.
+Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu l'occasion d'étudier beaucoup d'autres langages tels que Java, C, Bash, les langages du Web, et bien d'autres. J'ai surtout découvert le développement de jeu vidéo, domaine dans lequel je fais actuellement des études.
 
 ---
 ## Parcours scolaire et professionnel
