@@ -51,6 +51,8 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 | | |
 | **[🔓](#réalisations "Open Source") Bot Macron**<br>Ce bot Discord permet une gestion simple et rapide de création de salons dédiés à des projets ou sujets. Le bot est dédié au serveur "Parce que c'est notre projet !", afin de permettre la création de projets de groupe ou non en quelques clics seulement. Il contient aussi quelques fonctions plus généralistes, permettant de ne pas ajouter d'autres bots au serveur, réduisant ainsi les risques d'arnaque au bot.<br>[En savoir plus...](https://github.com/Cava3/Macron) | ![Screenshot du Discord "Parce que c'est notre projet!"](imgs/Macron.png) |
 | | |
+| **[🔓](#réalisations "Open Source") Lojistik**<br>Lojistik est un mini projets servant de proof of concept pour une fonctionnalité intéressante présente sur tous les navigateurs à jour. Il lie la reconnaissance vocale et la gestion du presse-papier afin de permettre de pouvoir passer rapidement d'un élément à un autre. Malheureusement, les sécurités mises en place par les navigateurs sur ces deux nouvelles technologies ne permettent pas un fonctionnement de l'application en arrière plan...<br>[En savoir plus...](https://github.com/Cava3/Lojistik) | ![Capture d'écran de la page web](imgs/Lojistik.png) |
+| | |
 
 ---
 ## Contact
