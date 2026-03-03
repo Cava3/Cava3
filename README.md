@@ -19,12 +19,12 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 ## Compétences (/5)
 #### Langages et Formats
 - 5⭐ : Python, Java, HTML, JavaScript, Bash/Shell, Markdown, JSON
-- 4⭐ : C, C++, C#, CSS, PHP, SQL
-- 2⭐ : XML, Batch, LaTeX, Arduino
+- 4⭐ : C, C++, C#, CSS, PHP, SQL, Matlab
+- 3⭐ : XML, Batch, LaTeX, Arduino
 
 #### Logiciels, Outils et Plateformes
-- 5⭐ : Git, GitHub, VSCode, IntelliJ, Linux, Windows, Unity
-- 4⭐ : Jupyter, Sublime Text, Arduino, Suites Microsoft et Libre Office, Edition d'images
+- 5⭐ : Git, GitHub, VSCode, Linux, Windows, Unity, Excel
+- 4⭐ : Sublime Text, Arduino, Suites Microsoft et Libre Office, Edition d'images, IntelliJ
 
 ---
 ## Réalisations
