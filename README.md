@@ -1,7 +1,7 @@
 ## Présentation
 
 Bonjour,  
-Je suis Lucas LE DUDAL, passionné d'informatique depuis plus de 13 ans. J'ai commencé par apprendre Python, un des langages les plus utilisés aujourd'hui.
+Je suis Lucas, passionné d'informatique depuis plus de 13 ans. J'ai commencé par apprendre Python, un des langages les plus utilisés aujourd'hui.
 Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu l'occasion d'étudier beaucoup d'autres langages tels que Java, C, Bash, les langages du Web, et bien d'autres. J'ai surtout découvert le développement de jeu vidéo, domaine dans lequel je fais actuellement des études.
 
 ---
@@ -35,6 +35,8 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 | | |
 | **[🔓](#réalisations "Open Source") Fist & Fury**<br>Un jeu en réalité virtuelle développé avec Unreal Engine 5 dans le cadre d'un cours de réalité virtuelle. Il s'agit d'un jeu de type "Beat Them All" avec pour ennemis les élèves de la 8ème promotion d'IEM. Le jeu prend aussi place dans une reproduction approximative du batiment de formation. On y retrouve plusieurs armes et ennemis avec des caractéristiques différentes.<br>[En savoir plus...](https://github.com/souryma/FistAndFury-P8-Edition) | ![Capture d'écran du jeu en VR](imgs/FistnFury.png) |
 | | |
+| **[🔒](#réalisations "Closed Source") Penguin Plugin**<br>Un plugin avancé pour l'outil open source de botting par mémoire [DarkBot](https://darkbot.eu) développé en Java. DarkBot est une application permettant de remplacer le joueur sur le jeu DarkOrbit. Il est open-source et permet d'ajouter des plugins de sources vérifiées (fichiers.jar signés). Le plugin [Penguin](https://discord.gg/bbKub5EWhf), développé en collaboration, propose des fonctionnalités innovantes et plus poussées que la plupart des autres plugins.<br> | ![Screenshot du DarkBot](imgs/Penguin.png) |
+| | |
 | **[🔒](#réalisations "Closed Source") Skit Story**<br>Un jeu narratif ayant pour objectif de lutter contre le tabagisme au collège, réalisé pour l'organisation [SKIT Défi Santé Jeunesse](https://skit.fr). Il s'agit d'une application Android, également déployable pour IOS. Le contenu est créé à l'aide de l'outil web de rédaction Twine, et le passage en application est fait grace à Capacitor by Ionic.<br> | ![Image d'un message de Nathan le toxico](imgs/SkitStory.png) |
 | | |
 | **[🔒](#réalisations "Closed Source") GateBreaker (braco)**<br>GateBreaker (aussi surnommé braco) est un projet de vol des identifiants et mot de passe des autres élèves de mon IUT par du phishing. Nous avons reproduis en Java l'interface de connexion des ordinateur de notre école pour que les étudiants entrent leurs identifiants. Le programme était lancé sur un compte anonyme, et ferme la session dès que les données sont entrées. Les données sont stockées sur le compte d'un étudiant préalablement piraté. | ![Image de l'interface de connexion](imgs/braco.jpg) |
@@ -48,8 +50,6 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 | **[🔒](#réalisations "Closed Source") CarteD**<br>Interface web en JS basée sur la cartographie avec la librairie Leaflet. Elle vise à afficher l'emplacement de drones en temps réel, et de visionner l'historique de ces emplacements à l'aide d'une API interne, non disponible. Ce projet est développé dans le cadre de mon alternance au sein de la DILT, et il m'est donc impossible de détailler son contenu. | ![Logo Préfecture de Police](imgs/CarteD.png) |
 | | |
 | **[🔓](#réalisations "Open Source") Bot Macron**<br>Ce bot Discord permet une gestion simple et rapide de création de salons dédiés à des projets ou sujets. Le bot est dédié au serveur "Parce que c'est notre projet !", afin de permettre la création de projets de groupe ou non en quelques clics seulement. Il contient aussi quelques fonctions plus généralistes, permettant de ne pas ajouter d'autres bots au serveur, réduisant ainsi les risques d'arnaque au bot.<br>[En savoir plus...](https://github.com/Cava3/Macron) | ![Screenshot du Discord "Parce que c'est notre projet!"](imgs/Macron.png) |
-| | |
-| **[🔓](#réalisations "Open Source") Lojistik**<br>Lojistik est un mini projets servant de proof of concept pour une fonctionnalité intéressante présente sur tous les navigateurs à jour. Il lie la reconnaissance vocale et la gestion du presse-papier afin de permettre de pouvoir passer rapidement d'un élément à un autre. Malheureusement, les sécurités mises en place par les navigateurs sur ces deux nouvelles technologies ne permettent pas un fonctionnement de l'application en arrière plan...<br>[En savoir plus...](https://github.com/Cava3/Lojistik) | ![Capture d'écran de la page web](imgs/Lojistik.png) |
 | | |
 
 ---
