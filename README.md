@@ -12,6 +12,7 @@ Il s'agit donc du langage que je maitrise le mieux. Lors de mes études, j'ai eu
 - 2017 / 2020 : *Bac S spé SVT option ISN (informatique) au Lycée François Couperin (Fontainebleau).*
 
 #### Professionnel
+- 2026 (3 mois) : *Chercheur à l'Université de Salamanque, Espagne.*
 - 2022 / 2025 : *Alternant Ingénieur en Lutte Anti-Drone au sein de la DILT.*
 - 2022 : *Stagiaire développement web au sein de la DILT.*
 
